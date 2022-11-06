@@ -1,2 +1,5 @@
 # euler-project
-Euler Project Answers
+Solutions to problems from 
+https://projecteuler.net/
+
+COMPLETED PROJECTS:
